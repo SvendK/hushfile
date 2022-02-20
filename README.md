@@ -129,8 +129,8 @@ The following components are used extensively in the code:
 - http://code.google.com/p/crypto-js/
 	Crypto-JS is used to perform encryption and decryption.
 
-- http://twitter.github.io/bootstrap/
-	Twitter Bootstrap is used for styling
+- https://getbootstrap.com/
+	Bootstrap is used for styling
 
-- http://fortawesome.github.io/Font-Awesome/
+- https://github.com/FortAwesome/Font-Awesome
 	Font-Awesome is a great icon collection for use with Twitter Bootstrap
